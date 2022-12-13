@@ -1,0 +1,18 @@
+a = "ayushi"
+print("name of a is {}" .format(a))
+
+a,b,c = 1,2,3
+print("a = {}, b = {}, c = {}".format(a,b,c))
+
+
+name = "ayushi bomtey"
+company ="google"
+print("name = {name} company = {company}" .format(name = name, company = company))
+
+print(f"name = {name} ")
+
+name = "ayushi bomtey"
+company = "google"
+print("Hello {name} welcome to my github " .format(name = name,company = company))
+
+print("ayushi bomtey".replace("s" , "t"))
